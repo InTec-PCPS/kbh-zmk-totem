@@ -6,4 +6,4 @@
   <img alt="TOTEM logo font" src="/docs/images/TOTEM_logo_bright.svg">
 </picture>
 
-# (SANDBOX - CLEAN KEYBOARDHOARDERS - NO MODIFICATIONS)
+# (SANDBOX - TO INTEGRATE ZMK STUDIO)
